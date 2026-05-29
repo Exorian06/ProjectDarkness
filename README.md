@@ -1,5 +1,7 @@
 ProjectDarkness – Technikai Ismertető & Projekt Leírás
 
+(Félkész Projekt!!! C# programozói képzés alatt kezdtem el és nem jutottam a végére. Belefutottam a Spagettifikáció tipikus hibájába. Tanulási célzattal készült és maradt meg. Tervezem befejezni idővel!)
+
 
 A ProjectDarkness egy C# és Windows Forms alapokon nyugvó, szöveges/2D hibrid RPG (Szerepjáték) prototípus. A projekt elsődleges célja a játékfejlesztésben használt alapvető szoftverarchitektúrák, az objektumorientált programozás (OOP) és a komplex állapotkezelés gyakorlati elsajátítása volt egyedi, keretrendszer nélküli környezetben.
 
